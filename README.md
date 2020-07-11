@@ -95,6 +95,8 @@ Estudos de programaço funcional maneiros.
 
 - [Don't fear the monad - Brian Beckman](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 - [Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
+- [Tutoriais - Applied Category Theory 2020](https://www.youtube.com/playlist?list=PLCOXjXDLt3pYPE63bVbsVfA41_wa3sZOh)
+    - A ACT é uma conferência anual sobre Teoria das Categorias, e essa é uma playlist com os tutoriais feitos nesse ano.
 
 #### Blog posts / Papers
 
